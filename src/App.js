@@ -1,11 +1,7 @@
 import './App.css';
 
 function App() {
-  return (
-   <div>
-     <div className="demo-title">Hello World Chat!</div>
-   </div>
-  );
-}
+    return (<div class="demo-title">Hello World!</div>);
+};
 
 export default App;
